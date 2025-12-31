@@ -90,12 +90,9 @@
 
 <br />
 
-<h3 align="center">🔥 Coding Consistency</h3>
-
+<h3 align="center">💭 Personal Philosophy</h3>
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sumitsharma29&theme=nightowl&hide_border=true&cache_buster=123)
-
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
 
 <br />
