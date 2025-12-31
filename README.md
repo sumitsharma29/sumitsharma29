@@ -25,18 +25,20 @@
 
 <br />
 
-<h3 align="center">👨‍💻 The Terminal</h3>
-<div align="center">
-  <code>
-    <span style="color: #2E8B57;">sumit@dev:~$</span> <span style="color: #000000;">./status.sh</span><br/>
-    <span style="color: #0077B5;">></span> Status: <span style="color: #333;">3rd Year Computer Science Student</span><br/>
-    <span style="color: #0077B5;">></span> Focus: <span style="color: #333;">Full Stack & AI Integration</span><br/>
-    <span style="color: #0077B5;">></span> Stack: <span style="color: #333;">MERN, Next.js, C++, Python</span><br/>
-    <span style="color: #0077B5;">></span> Mission: <span style="color: #333;">Building tech that matters.</span>
-  </code>
-</div>
+<h3 align="center">⚡ About Me</h3>
+<p align="center">
+  I am a <b>3rd Year Computer Science Student</b> with a passion for building high-performance systems.<br/>
+  My goal is to bridge the gap between <b>Complex Backend Logic</b> and <b>Beautiful Frontend Interfaces</b>.
+</p>
 
-<br/>
+<p align="center">
+  🔭 <b>Currently Building:</b> AI-Powered Web Applications<br/>
+  🌱 <b>Currently Learning:</b> Advanced System Design & Next.js<br/>
+  👯 <b>Looking to Collaborate on:</b> Open Source & Hackathon Projects<br/>
+  💬 <b>Ask me about:</b> React.js, Node.js, C++ DSA, and SQL
+</p>
+
+<br />
 
 <h3 align="center">🛠️ Technical Arsenal</h3>
 <p align="center">
@@ -49,17 +51,7 @@
   </a>
 </p>
 
-<br/>
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsharma29&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="Sumit's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsharma29&layout=compact&theme=nightowl&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<br/>
+<br />
 
 <h3 align="center">🚀 Featured Projects</h3>
 <table width="100%">
@@ -81,7 +73,7 @@
   </tr>
 </table>
 
-<br/>
+<br />
 
 <h3 align="center">🧩 Problem Solving</h3>
 <div align="center">
@@ -96,12 +88,15 @@
   </a>
 </div>
 
-<br/>
+<br />
 
 <h3 align="center">🔥 Coding Consistency</h3>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sumitsharma29&theme=nightowl&hide_border=true" alt="GitHub Streak" />
-</p>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sumitsharma29&theme=nightowl&hide_border=true&cache_buster=123)
+
+</div>
 
 <br />
 
