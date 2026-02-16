@@ -1,104 +1,120 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=250&section=header&text=Sumit%20Sharma&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=1c1c1c&desc=Frontend%20Architect%20%E2%80%A2%20Backend%20Engineer%20%E2%80%A2%20Problem%20Solver&descFontSize=20&descAlignY=60&descAlign=50" width="100%" />
-</div>
+<div align="center" style="border-radius: 20px;">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=280&section=header&text=SUMIT%20SHARMA&fontSize=90&fontAlignY=40&animation=fadeIn&fontColor=00FFA3&desc=FULL%20STACK%20ARCHITECT%20|%20AI%20SOLUTIONS%20|%20SYSTEM%20DESIGN&descFontSize=22&descAlignY=62" width="100%" />
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Solving+Hard+Problems+in+C%2B%2B;Turning+Coffee+into+Code;Merging+AI+with+Modern+UI" alt="Typing SVG" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/sumitsharma29">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sumit-sharma-78b93b294">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/sumit__sharma__29">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:sumitsharma982646@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<br />
-
-<h3 align="center">⚡ About Me</h3>
-<p align="center">
-  I am a <b>3rd Year Computer Science Student</b> with a passion for building high-performance systems.<br/>
-  My goal is to bridge the gap between <b>Complex Backend Logic</b> and <b>Beautiful Frontend Interfaces</b>.
-</p>
-
-<p align="center">
-  🔭 <b>Currently Building:</b> AI-Powered Web Applications<br/>
-  🌱 <b>Currently Learning:</b> Advanced System Design & Next.js<br/>
-  👯 <b>Looking to Collaborate on:</b> Open Source & Hackathon Projects<br/>
-  💬 <b>Ask me about:</b> React.js, Node.js, C++ DSA, and SQL
-</p>
-
-<br />
-
-<h3 align="center">🛠️ Technical Arsenal</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js,nodejs,express,mongodb,postgres,mysql&perline=10" />
-  </a>
   <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python,git,linux,postman,vscode,figma&perline=10" />
+
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5ZzA2Z3F4ZzR0OHZ5OHV4OHV4OHV4OHV4OHV4OHV4OHV4OHV4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/dqfXvD6Ccy5rS7EAnV/giphy.gif" width="300px" />
+
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFA3&center=true&vCenter=true&width=600&lines=Engineering+Scalable+Ecosystems;Bridging+AI+with+Human+Interfaces;Solving+Complex+System+Logic;Innovating+Digital+Infrastructure" alt="Typing SVG" />
   </a>
-</p>
 
-<br />
+  <p align="center">
+    <a href="https://github.com/sumitsharma29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/sumit-sharma-78b93b294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sumitsharma982646@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+</div>
 
-<h3 align="center">🚀 Featured Projects</h3>
-<table width="100%">
+---
+
+### 🏛️ Professional Synopsis
+
+<table align="center" border="0">
   <tr>
-    <td width="50%" align="center">
-      <h3>🟣 Monad Mercenary</h3>
-      <p><b>Immersive Frontend Experience</b></p>
-      <a href="https://monadmercenary.netlify.app/">
-        <img src="https://img.shields.io/badge/View_Deployment-7023E4?style=for-the-badge&logo=rocket&logoColor=white" />
-      </a>
+    <td width="55%" valign="top">
+      <h3>🚀 Technical Identity</h3>
+      <p>I am a <b>Computer Science Engineer</b> specializing in the development of robust, high-availability web architectures. My focus lies in <b>Advanced System Design</b> and the integration of <b>Generative AI</b> into production-ready environments.</p>
+      <p>I build with a "Performance-First" mindset, ensuring that every line of code adds value to the user experience.</p>
+      <br/>
+      <ul>
+        <li>🔭 <b>Currently:</b> Refining AI-driven incident reporting platforms</li>
+        <li>⚡ <b>Specialization:</b> MERN Stack & Low-Level C++ Optimization</li>
+        <li>🌱 <b>Exploring:</b> Micro-frontend architectures & Next.js 15</li>
+      </ul>
     </td>
-    <td width="50%" align="center">
-      <h3>🧠 Quizify AI</h3>
-      <p><b>AI-Powered Quiz Engine</b></p>
-      <a href="https://quizifyaii.netlify.app/">
-        <img src="https://img.shields.io/badge/View_Deployment-00C7B7?style=for-the-badge&logo=robot&logoColor=white" />
-      </a>
+    <td width="45%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsharma29&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=00FFA3&text_color=ffffff" width="100%" />
     </td>
   </tr>
 </table>
 
-<br />
+<br/>
 
-<h3 align="center">🧩 Problem Solving</h3>
+<h3 align="center">🛠️ Technical Arsenal</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,mysql,cpp,java,py,tailwind,bootstrap,git,linux,postman,vscode,figma,docker,aws,firebase,ts,redux&perline=11" />
+  </a>
+</p>
+
+---
+
+### 💎 Featured Deployments & Architecture
+
 <div align="center">
-  <a href="https://leetcode.com/u/sumitsharma_98/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/sumitsharma_98">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/sumitsharma_02">
-    <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" style="padding:15px;">
+        <img src="https://img.shields.io/badge/ASTRA_OS-0078D4?style=for-the-badge&logo=windows&logoColor=white" /><br/>
+        <b>Advanced Desktop Emulation</b><br/>
+        <i>Immersive frontend OS interface</i><br/>
+        <a href="https://astraa-os.netlify.app/"><b>Live Architecture →</b></a>
+      </td>
+      <td width="50%" align="center" style="padding:15px;">
+        <img src="https://img.shields.io/badge/SwiftPDF-FF4B4B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /><br/>
+        <b>Next-Gen Document Suite</b><br/>
+        <i>Serverless PDF manipulation engine</i><br/>
+        <a href="https://swiftpdff.netlify.app/"><b>Live Architecture →</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center" style="padding:15px;">
+        <br/><img src="https://img.shields.io/badge/Quizify_AI-00C7B7?style=for-the-badge&logo=robot&logoColor=white" /><br/>
+        <b>Intelligence Engine</b><br/>
+        <i>AI-powered automated learning</i><br/>
+        <a href="https://quizifyaii.netlify.app/"><b>Live Architecture →</b></a>
+      </td>
+      <td width="50%" align="center" style="padding:15px;">
+        <br/><img src="https://img.shields.io/badge/Monad_Mercenary-7023E4?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
+        <b>Frontend Visualization</b><br/>
+        <i>Advanced interactive data UI</i><br/>
+        <a href="https://monadmercenary.netlify.app/"><b>Live Architecture →</b></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<br />
+---
 
-<h3 align="center">💭 Personal Philosophy</h3>
+### 📈 Engineering Metrics
+
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitsharma29&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FFA3&text_color=ffffff" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsharma29&theme=vision-friendly-dark&hide_border=true&background=0d1117&stroke=00FFA3&ring=00FFA3&fire=00FFA3" width="48%" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsharma29&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=00FFA3" width="100%" />
+</div>
+
+<br/>
+
+<h3 align="center">🧩 Algorithmic Mastery</h3>
+<div align="center">
+  <a href="https://leetcode.com/u/sumitsharma_98/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/sumitsharma_98"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/sumitsharma_02"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFA3&height=100&section=footer&text=Innovating+at+the+Edge&fontSize=20&fontAlignY=80&fontColor=000000"/>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sumitsharma29&label=Profile+Views&color=2E8B57&style=flat" alt="sumitsharma29" />
 </div>
